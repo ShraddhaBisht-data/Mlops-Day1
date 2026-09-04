@@ -10,14 +10,23 @@ import joblib
 # Load the dataset
 df = pd.read_csv("C:\Mlops Day 1\Data\data.csv")
 
+
+# preprocessing
+#....
+
+
 # Train-test split
-X = df.drop(columns=["Sales"])
-y = df["Sales"]
-xtrain, xtest, ytrain, ytest = train_test_split(X, y, test_size=0.2, random_state=67)
+X,y = df[["TV", "Radio", "Newspaper"]],df[["Sales"]]
+Xtrain, Xtest, ytrain, ytest = train_test_split(X, y, test_size=0.2, random_state=67)
 
 # Linear Regression model
 model = LinearRegression()
-model.fit(xtrain, ytrain)
+model.fit(Xtrain, ytrain)
+
+
+ypred = model.predict(Xtest)
+r2 = r2_score(ytest, ypred)
+rmse = root_mean_squared_error(ytest, ypred)
 
 # Model dump
 joblib.dump(model,r"C:\Mlops Day 1\Models\linear_reg_model.pkl") 

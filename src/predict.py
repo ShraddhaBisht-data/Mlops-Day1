@@ -8,4 +8,4 @@ model = joblib.load("C:/Mlops Day 1/Models/linear_reg_model.pkl")
 new_data = pd.DataFrame([[123, 56, 89]])
 prediction = model.predict(new_data)
 
-print("Predicted Sales: ", prediction)
+print(f"Predicted Sales is {prediction}")
