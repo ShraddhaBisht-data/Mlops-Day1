@@ -1,0 +1,13 @@
+prefix=C:/Mlops Day 1/workshop_mlops/Library
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+gmodule_supported=true
+
+Name: GModule
+Description: Dynamic module loader for GLib
+Version: 2.88.3
+Requires: glib-2.0
+Libs: -L${libdir} -lgmodule-2.0
+Libs.private: -L${libdir} -lintl
+Cflags: -I${includedir}

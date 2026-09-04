@@ -1,0 +1,757 @@
+{
+  "build": "h5895b07_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "qtbase >=6.11.0,<6.12.0a0",
+    "qtdeclarative >=6.11.0,<6.12.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.42.34433"
+  ],
+  "extracted_package_dir": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtwebchannel-6.11.0-h5895b07_1",
+  "files": [
+    "Library/bin/Qt6WebChannel.dll",
+    "Library/bin/Qt6WebChannelQuick.dll",
+    "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/qmetaobjectpublisher_p.h",
+    "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/qwebchannel_p.h",
+    "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/signalhandler_p.h",
+    "Library/include/qt6/QtWebChannel/QWebChannel",
+    "Library/include/qt6/QtWebChannel/QWebChannelAbstractTransport",
+    "Library/include/qt6/QtWebChannel/QtWebChannel",
+    "Library/include/qt6/QtWebChannel/QtWebChannelDepends",
+    "Library/include/qt6/QtWebChannel/QtWebChannelVersion",
+    "Library/include/qt6/QtWebChannel/qtwebchannelexports.h",
+    "Library/include/qt6/QtWebChannel/qtwebchannelversion.h",
+    "Library/include/qt6/QtWebChannel/qwebchannel.h",
+    "Library/include/qt6/QtWebChannel/qwebchannelabstracttransport.h",
+    "Library/include/qt6/QtWebChannel/qwebchannelglobal.h",
+    "Library/include/qt6/QtWebChannelQuick/6.11.0/QtWebChannelQuick/private/qqmlwebchannelattached_p.h",
+    "Library/include/qt6/QtWebChannelQuick/QQmlWebChannel",
+    "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuick",
+    "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuickDepends",
+    "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuickVersion",
+    "Library/include/qt6/QtWebChannelQuick/qqmlwebchannel.h",
+    "Library/include/qt6/QtWebChannelQuick/qtwebchannelquickexports.h",
+    "Library/include/qt6/QtWebChannelQuick/qtwebchannelquickversion.h",
+    "Library/include/qt6/QtWebChannelQuick/qwebchannelquickglobal.h",
+    "Library/lib/Qt6WebChannel.lib",
+    "Library/lib/Qt6WebChannel.prl",
+    "Library/lib/Qt6WebChannelQuick.lib",
+    "Library/lib/Qt6WebChannelQuick.prl",
+    "Library/lib/cmake/Qt6BuildInternals/StandaloneTests/QtWebChannelTestsConfig.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfigVersion.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-release.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets.cmake",
+    "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfig.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfigVersion.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelDependencies.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelExtras.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargets-release.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelVersionlessTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfig.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfigVersion.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateDependencies.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateVersionlessTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfig.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfigVersion.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickDependencies.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargets-release.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickVersionlessTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfig.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfigVersion.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateDependencies.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateVersionlessTargets.cmake",
+    "Library/lib/qt6/bin/Qt6WebChannel.dll",
+    "Library/lib/qt6/bin/Qt6WebChannelQuick.dll",
+    "Library/lib/qt6/metatypes/qt6webchannel_metatypes.json",
+    "Library/lib/qt6/metatypes/qt6webchannelquick_metatypes.json",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_webchannel.pri",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_webchannel_private.pri",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_webchannelquick.pri",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_webchannelquick_private.pri",
+    "Library/lib/qt6/modules/WebChannel.json",
+    "Library/lib/qt6/modules/WebChannelQuick.json",
+    "Library/lib/qt6/qml/QtWebChannel/plugins.qmltypes",
+    "Library/lib/qt6/qml/QtWebChannel/qmldir",
+    "Library/lib/qt6/qml/QtWebChannel/webchannelquickplugin.dll",
+    "Library/lib/qt6/sbom/qtwebchannel-6.11.0.spdx",
+    "Library/share/qt6/webchannel/qwebchannel.js"
+  ],
+  "fn": "qtwebchannel-6.11.0-h5895b07_1.conda",
+  "license": "LGPL-3.0-only",
+  "link": {
+    "source": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtwebchannel-6.11.0-h5895b07_1",
+    "type": 1
+  },
+  "md5": "aa01992766d3a6496a9415a409ff7a74",
+  "name": "qtwebchannel",
+  "package_tarball_full_path": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtwebchannel-6.11.0-h5895b07_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/Qt6WebChannel.dll",
+        "path_type": "hardlink",
+        "sha256": "5526540a0c5f3cebce371fcc662a686ae512b281eb7a2f9b6a63e1e2d524d8b8",
+        "sha256_in_prefix": "5526540a0c5f3cebce371fcc662a686ae512b281eb7a2f9b6a63e1e2d524d8b8",
+        "size_in_bytes": 252744
+      },
+      {
+        "_path": "Library/bin/Qt6WebChannelQuick.dll",
+        "path_type": "hardlink",
+        "sha256": "688681e7ae3fad7454f3827dba0369a109ad844f6ef843f7ad85ca99f8a688d6",
+        "sha256_in_prefix": "688681e7ae3fad7454f3827dba0369a109ad844f6ef843f7ad85ca99f8a688d6",
+        "size_in_bytes": 63304
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/qmetaobjectpublisher_p.h",
+        "path_type": "hardlink",
+        "sha256": "938c8675b40093a38924378fc1b5dd67432b327701ce1507e0ef47e2fd36a8dd",
+        "sha256_in_prefix": "938c8675b40093a38924378fc1b5dd67432b327701ce1507e0ef47e2fd36a8dd",
+        "size_in_bytes": 14986
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/qwebchannel_p.h",
+        "path_type": "hardlink",
+        "sha256": "a77f56224f379fdb218cf2e3f2200a1010b22558603ea713d476a965200930c6",
+        "sha256_in_prefix": "a77f56224f379fdb218cf2e3f2200a1010b22558603ea713d476a965200930c6",
+        "size_in_bytes": 1091
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/6.11.0/QtWebChannel/private/signalhandler_p.h",
+        "path_type": "hardlink",
+        "sha256": "21f4a7a28fd928c3f56245de6123f0cc31c1dcee515c549829ddff374fc56a5d",
+        "sha256_in_prefix": "21f4a7a28fd928c3f56245de6123f0cc31c1dcee515c549829ddff374fc56a5d",
+        "size_in_bytes": 10223
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/QWebChannel",
+        "path_type": "hardlink",
+        "sha256": "7e7af35ed14581c8b35eb39870f43302381d6cb9949e3ba872561dda84c0a5f2",
+        "sha256_in_prefix": "7e7af35ed14581c8b35eb39870f43302381d6cb9949e3ba872561dda84c0a5f2",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/QWebChannelAbstractTransport",
+        "path_type": "hardlink",
+        "sha256": "90e0b65879fdfc2ae195cb36a4eac93ea1b221f51a85820b879b7dff1a66f3c9",
+        "sha256_in_prefix": "90e0b65879fdfc2ae195cb36a4eac93ea1b221f51a85820b879b7dff1a66f3c9",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/QtWebChannel",
+        "path_type": "hardlink",
+        "sha256": "aa9762dfe3ea7ffc3a77c7353d41c5d70c68ad8df1dbaa74c5571031c5001fe9",
+        "sha256_in_prefix": "aa9762dfe3ea7ffc3a77c7353d41c5d70c68ad8df1dbaa74c5571031c5001fe9",
+        "size_in_bytes": 308
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/QtWebChannelDepends",
+        "path_type": "hardlink",
+        "sha256": "42067ad125507f947bd8dea9a8ac1105101760ec25f1864a1a580b6fed62990c",
+        "sha256_in_prefix": "42067ad125507f947bd8dea9a8ac1105101760ec25f1864a1a580b6fed62990c",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/QtWebChannelVersion",
+        "path_type": "hardlink",
+        "sha256": "d71c07ed715db0b31c447bcd9efe2d3bcf4e5b979b23cd466519e5ecf41aa3dc",
+        "sha256_in_prefix": "d71c07ed715db0b31c447bcd9efe2d3bcf4e5b979b23cd466519e5ecf41aa3dc",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/qtwebchannelexports.h",
+        "path_type": "hardlink",
+        "sha256": "1db0fb51cb9a37dc80acdfef1efc166c071936f771edb2e800a109738221243e",
+        "sha256_in_prefix": "1db0fb51cb9a37dc80acdfef1efc166c071936f771edb2e800a109738221243e",
+        "size_in_bytes": 2302
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/qtwebchannelversion.h",
+        "path_type": "hardlink",
+        "sha256": "8dd19beda46eeb4877236651456428ca15b778de99a891e4523500211d3d3eae",
+        "sha256_in_prefix": "8dd19beda46eeb4877236651456428ca15b778de99a891e4523500211d3d3eae",
+        "size_in_bytes": 238
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/qwebchannel.h",
+        "path_type": "hardlink",
+        "sha256": "c53b48d913e771cd7552f16c5048d621db00b3988a43a42ca54d8d4771dde147",
+        "sha256_in_prefix": "c53b48d913e771cd7552f16c5048d621db00b3988a43a42ca54d8d4771dde147",
+        "size_in_bytes": 2167
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/qwebchannelabstracttransport.h",
+        "path_type": "hardlink",
+        "sha256": "f305673e8107bfd720b22aaa46d8925e84ef50233087163c57eee9eb5a2ea39c",
+        "sha256_in_prefix": "f305673e8107bfd720b22aaa46d8925e84ef50233087163c57eee9eb5a2ea39c",
+        "size_in_bytes": 934
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannel/qwebchannelglobal.h",
+        "path_type": "hardlink",
+        "sha256": "5305a3d04780a42e51a00d89205a094629533201808eeadfab0827d5eba36039",
+        "sha256_in_prefix": "5305a3d04780a42e51a00d89205a094629533201808eeadfab0827d5eba36039",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/6.11.0/QtWebChannelQuick/private/qqmlwebchannelattached_p.h",
+        "path_type": "hardlink",
+        "sha256": "98d3f32722bae1f5f6534cb86d8e2c92acdd46a6cbb2fc1f5c453cc3707c402c",
+        "sha256_in_prefix": "98d3f32722bae1f5f6534cb86d8e2c92acdd46a6cbb2fc1f5c453cc3707c402c",
+        "size_in_bytes": 1225
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/QQmlWebChannel",
+        "path_type": "hardlink",
+        "sha256": "2fbd0ad4a6f92bc5bbcbbc5cbe26aba8b4b7552421e4b1e8600b5792ce2b57b7",
+        "sha256_in_prefix": "2fbd0ad4a6f92bc5bbcbbc5cbe26aba8b4b7552421e4b1e8600b5792ce2b57b7",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuick",
+        "path_type": "hardlink",
+        "sha256": "c90219e3715877870076fbe2a1f7905005cb49104f4c7f1788c28d3acc80807d",
+        "sha256_in_prefix": "c90219e3715877870076fbe2a1f7905005cb49104f4c7f1788c28d3acc80807d",
+        "size_in_bytes": 300
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuickDepends",
+        "path_type": "hardlink",
+        "sha256": "284c6d990bd5a043f33eb6e772d30e50150d66e692f389f267376b95126982a4",
+        "sha256_in_prefix": "284c6d990bd5a043f33eb6e772d30e50150d66e692f389f267376b95126982a4",
+        "size_in_bytes": 144
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/QtWebChannelQuickVersion",
+        "path_type": "hardlink",
+        "sha256": "e21c97ff7f88a6f1bccb2b3bf2e28834c6b4f03b530f8b9f744b12c416778a3b",
+        "sha256_in_prefix": "e21c97ff7f88a6f1bccb2b3bf2e28834c6b4f03b530f8b9f744b12c416778a3b",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/qqmlwebchannel.h",
+        "path_type": "hardlink",
+        "sha256": "e15fa25ae73fa36161532ee2af71d29fceb8a82ebe554b02498f7669fe3ee07c",
+        "sha256_in_prefix": "e15fa25ae73fa36161532ee2af71d29fceb8a82ebe554b02498f7669fe3ee07c",
+        "size_in_bytes": 2304
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/qtwebchannelquickexports.h",
+        "path_type": "hardlink",
+        "sha256": "558fa6904c65056789da609aec7b39d99d7e0dde298eb103ad3ed03d537f0ef1",
+        "sha256_in_prefix": "558fa6904c65056789da609aec7b39d99d7e0dde298eb103ad3ed03d537f0ef1",
+        "size_in_bytes": 2412
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/qtwebchannelquickversion.h",
+        "path_type": "hardlink",
+        "sha256": "e0181dd41f713307be7128d8982e0b8d59964b3f23d37af48309496d576ef12e",
+        "sha256_in_prefix": "e0181dd41f713307be7128d8982e0b8d59964b3f23d37af48309496d576ef12e",
+        "size_in_bytes": 263
+      },
+      {
+        "_path": "Library/include/qt6/QtWebChannelQuick/qwebchannelquickglobal.h",
+        "path_type": "hardlink",
+        "sha256": "c853dde901b8fa95bd99fb83edf3e44200b93c2dc203a85174822060af907ae8",
+        "sha256_in_prefix": "c853dde901b8fa95bd99fb83edf3e44200b93c2dc203a85174822060af907ae8",
+        "size_in_bytes": 365
+      },
+      {
+        "_path": "Library/lib/Qt6WebChannel.lib",
+        "path_type": "hardlink",
+        "sha256": "ab3dc7ba013019c13340ee1c896745342d001601942a6108062b4b6ba189c350",
+        "sha256_in_prefix": "ab3dc7ba013019c13340ee1c896745342d001601942a6108062b4b6ba189c350",
+        "size_in_bytes": 44214
+      },
+      {
+        "_path": "Library/lib/Qt6WebChannel.prl",
+        "path_type": "hardlink",
+        "sha256": "576b5e96ad6dedce6b08321d422441842492b602720bf239d854b90a3b1cc631",
+        "sha256_in_prefix": "576b5e96ad6dedce6b08321d422441842492b602720bf239d854b90a3b1cc631",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "Library/lib/Qt6WebChannelQuick.lib",
+        "path_type": "hardlink",
+        "sha256": "144e7c7a7b4e1f1eb0d5562dd6bf5598da4d4f661e96e63659eeb3d2314be66d",
+        "sha256_in_prefix": "144e7c7a7b4e1f1eb0d5562dd6bf5598da4d4f661e96e63659eeb3d2314be66d",
+        "size_in_bytes": 19380
+      },
+      {
+        "_path": "Library/lib/Qt6WebChannelQuick.prl",
+        "path_type": "hardlink",
+        "sha256": "4bd0acfa87d561f886b42191b73ed70eb86892ae50cc7e97218aef977442c249",
+        "sha256_in_prefix": "4bd0acfa87d561f886b42191b73ed70eb86892ae50cc7e97218aef977442c249",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6BuildInternals/StandaloneTests/QtWebChannelTestsConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "ad6e29a22bccdd15ab0e68180179fe45fae1a6c16c720d521f1be0f709b86ad2",
+        "sha256_in_prefix": "ad6e29a22bccdd15ab0e68180179fe45fae1a6c16c720d521f1be0f709b86ad2",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "75c3f2da10c8eeee640773ed9734b8d39b97192c86e56805fe3e8ec784aea2c1",
+        "sha256_in_prefix": "75c3f2da10c8eeee640773ed9734b8d39b97192c86e56805fe3e8ec784aea2c1",
+        "size_in_bytes": 1714
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "8089e3d04aeb7101e13c6d3c385b88a44c78b22e8083c23996a79cf10366a318",
+        "sha256_in_prefix": "8089e3d04aeb7101e13c6d3c385b88a44c78b22e8083c23996a79cf10366a318",
+        "size_in_bytes": 1909
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "e94bb3d0bc7fd229ccf1c34829b6109178a9e59914c04120991d4dfc2ec7ed56",
+        "sha256_in_prefix": "e94bb3d0bc7fd229ccf1c34829b6109178a9e59914c04120991d4dfc2ec7ed56",
+        "size_in_bytes": 3094
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "a3028ba31e03f9fbe670ae1b7fc0b33a3845808940329d56228589da617cb128",
+        "sha256_in_prefix": "a3028ba31e03f9fbe670ae1b7fc0b33a3845808940329d56228589da617cb128",
+        "size_in_bytes": 988
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "7158bcbc523d2f4a7edb13c9bcfedac3ec011dd118d60652a6ea97a0d65480f8",
+        "sha256_in_prefix": "7158bcbc523d2f4a7edb13c9bcfedac3ec011dd118d60652a6ea97a0d65480f8",
+        "size_in_bytes": 5666
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Qml/QmlPlugins/Qt6WebChannelQuickpluginTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "81b9d3b6730e66056ef3c258b1cd956519749ccbc06b89636f3261f485c9eff6",
+        "sha256_in_prefix": "81b9d3b6730e66056ef3c258b1cd956519749ccbc06b89636f3261f485c9eff6",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "597a97d421e457ff4bd5b80372242908dd0498af5d16f77820bab977c48e4b0f",
+        "sha256_in_prefix": "597a97d421e457ff4bd5b80372242908dd0498af5d16f77820bab977c48e4b0f",
+        "size_in_bytes": 3009
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "55bde09297d90f197bac50e6fe6bb0f3aec542d8f6e176864370e5cfd028091f",
+        "sha256_in_prefix": "55bde09297d90f197bac50e6fe6bb0f3aec542d8f6e176864370e5cfd028091f",
+        "size_in_bytes": 9756
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "03b56ecde1b86b61e6d93fb3c674d6c6a78bd716088b63a423fc7d3ab4ea0c5c",
+        "sha256_in_prefix": "03b56ecde1b86b61e6d93fb3c674d6c6a78bd716088b63a423fc7d3ab4ea0c5c",
+        "size_in_bytes": 3083
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "3eec10adb84a0200b4fb8a8a931b66f81a50e44722d639424a08032e946b97a7",
+        "sha256_in_prefix": "3eec10adb84a0200b4fb8a8a931b66f81a50e44722d639424a08032e946b97a7",
+        "size_in_bytes": 2140
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelExtras.cmake",
+        "path_type": "hardlink",
+        "sha256": "ebe6f28445963b98a27442cf04747313e7b403fd15d31e2ab0d8aa0c0b8ddaea",
+        "sha256_in_prefix": "ebe6f28445963b98a27442cf04747313e7b403fd15d31e2ab0d8aa0c0b8ddaea",
+        "size_in_bytes": 1130
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "9a274e75a105e9966598370a8eaf5e9e34b4a9dbc50eae92d1fc82acb5bc547b",
+        "sha256_in_prefix": "9a274e75a105e9966598370a8eaf5e9e34b4a9dbc50eae92d1fc82acb5bc547b",
+        "size_in_bytes": 1012
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "efa6e978eea033702134b19b68814b40b9fb6147fa7e90e7f3dca5efd921fdc9",
+        "sha256_in_prefix": "efa6e978eea033702134b19b68814b40b9fb6147fa7e90e7f3dca5efd921fdc9",
+        "size_in_bytes": 5673
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "f413565061cda9d68a30e6c037b44d643dee99f116caeb7415d0b74f71c78afe",
+        "sha256_in_prefix": "f413565061cda9d68a30e6c037b44d643dee99f116caeb7415d0b74f71c78afe",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "5c4569596721ed18e4a0cebd5af583d231aea19b08c8facc4335e86307665fba",
+        "sha256_in_prefix": "5c4569596721ed18e4a0cebd5af583d231aea19b08c8facc4335e86307665fba",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannel/Qt6WebChannelVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "073cc7d647f79edc7acb49b589b4c171119954cfe0fcd850b2e0899007aba461",
+        "sha256_in_prefix": "073cc7d647f79edc7acb49b589b4c171119954cfe0fcd850b2e0899007aba461",
+        "size_in_bytes": 295
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "a1c187159f5557d795ce84a5dd9e625cd299347983635e999299cd42f5e0860b",
+        "sha256_in_prefix": "a1c187159f5557d795ce84a5dd9e625cd299347983635e999299cd42f5e0860b",
+        "size_in_bytes": 238
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "74f197b0c320f5fba2d0a2412fdef7d1f19bc91d20e6cc4bf69851bec82ccaf3",
+        "sha256_in_prefix": "74f197b0c320f5fba2d0a2412fdef7d1f19bc91d20e6cc4bf69851bec82ccaf3",
+        "size_in_bytes": 3426
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "7a7a75b7eee060b07c7074e21379eeedb97a444ab26927104d5387fef5f7de10",
+        "sha256_in_prefix": "7a7a75b7eee060b07c7074e21379eeedb97a444ab26927104d5387fef5f7de10",
+        "size_in_bytes": 3090
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "721e30a1726cd403589c25660bbef0b14b7bc6de803cf1c445cec5cdeec41eaa",
+        "sha256_in_prefix": "721e30a1726cd403589c25660bbef0b14b7bc6de803cf1c445cec5cdeec41eaa",
+        "size_in_bytes": 2280
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "104265a06e8d4bcc252c9670fba0705a4b0f65eb35ef6d6c04e1501b194c0ef1",
+        "sha256_in_prefix": "104265a06e8d4bcc252c9670fba0705a4b0f65eb35ef6d6c04e1501b194c0ef1",
+        "size_in_bytes": 6240
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "81b0311d423e4bb224378b7d08539ad4b28124f3a89664fb9643179d30d19b10",
+        "sha256_in_prefix": "81b0311d423e4bb224378b7d08539ad4b28124f3a89664fb9643179d30d19b10",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d27d01cf4b38de0560d074c6dcec4aae0a2d80ab2834cccb760dfe819b909372",
+        "sha256_in_prefix": "d27d01cf4b38de0560d074c6dcec4aae0a2d80ab2834cccb760dfe819b909372",
+        "size_in_bytes": 308
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelPrivate/Qt6WebChannelPrivateVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "c5eee90c0e7b0e5756284d9c7b8105a0e834dbb4e89903cc23b8bd52e12fc91e",
+        "sha256_in_prefix": "c5eee90c0e7b0e5756284d9c7b8105a0e834dbb4e89903cc23b8bd52e12fc91e",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "489655779cf71dfee38ef494b81c1761ed72d5a72247c8219dfe3fe6df997706",
+        "sha256_in_prefix": "489655779cf71dfee38ef494b81c1761ed72d5a72247c8219dfe3fe6df997706",
+        "size_in_bytes": 3114
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "a3bba402bf91a75ad6183242b62f9914c078e1135174ccddcdfe758e0e7e8e07",
+        "sha256_in_prefix": "a3bba402bf91a75ad6183242b62f9914c078e1135174ccddcdfe758e0e7e8e07",
+        "size_in_bytes": 10151
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "c20623f5cb512245f3a5a015cfa0788d04c5a231b50480f32daa29cd57c1c894",
+        "sha256_in_prefix": "c20623f5cb512245f3a5a015cfa0788d04c5a231b50480f32daa29cd57c1c894",
+        "size_in_bytes": 3088
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "2603cd1ef937f11df35b146b647931de9ebcc5d31d85b557a3ff7d3c8fca51cf",
+        "sha256_in_prefix": "2603cd1ef937f11df35b146b647931de9ebcc5d31d85b557a3ff7d3c8fca51cf",
+        "size_in_bytes": 2259
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "51e2e94f89bc9bfd50a1acc5646d605f4e0d9ebbef3fb5527f7341cdb1105136",
+        "sha256_in_prefix": "51e2e94f89bc9bfd50a1acc5646d605f4e0d9ebbef3fb5527f7341cdb1105136",
+        "size_in_bytes": 1082
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d2fb2545b5976cb8ab2fa18fd4898795016f2b031bf57857405c87246a88d74b",
+        "sha256_in_prefix": "d2fb2545b5976cb8ab2fa18fd4898795016f2b031bf57857405c87246a88d74b",
+        "size_in_bytes": 6221
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "3c1c199a45e5c7c002b92cf35271fb15affef163432a623722c1d8639fd01558",
+        "sha256_in_prefix": "3c1c199a45e5c7c002b92cf35271fb15affef163432a623722c1d8639fd01558",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d66d05f7797dff1bef7cad85760da76588df839acc6701edb6b5c0288e2a736b",
+        "sha256_in_prefix": "d66d05f7797dff1bef7cad85760da76588df839acc6701edb6b5c0288e2a736b",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuick/Qt6WebChannelQuickVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "cdfa3416a21e5f8f34427d0f4700534a31e6f1d95d305e004f0efc978e50384b",
+        "sha256_in_prefix": "cdfa3416a21e5f8f34427d0f4700534a31e6f1d95d305e004f0efc978e50384b",
+        "size_in_bytes": 300
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "c33af9cf7c4a3c9601b7e7e35cb342af2203d36dab332e210096ff377888bb27",
+        "sha256_in_prefix": "c33af9cf7c4a3c9601b7e7e35cb342af2203d36dab332e210096ff377888bb27",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "3a4129d9d4bd4acd30ede5dcb53fcec22672af0c749c13ed3baba94e32300175",
+        "sha256_in_prefix": "3a4129d9d4bd4acd30ede5dcb53fcec22672af0c749c13ed3baba94e32300175",
+        "size_in_bytes": 3556
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "f0f0a003258cee37653a6c84e6db4697e9fa5b624a6ec96e79b82b45d9759cc7",
+        "sha256_in_prefix": "f0f0a003258cee37653a6c84e6db4697e9fa5b624a6ec96e79b82b45d9759cc7",
+        "size_in_bytes": 3095
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "1aa859abe9c99fc63f3d5ff6700f74ea682aefef74e9107dd6265821106368a7",
+        "sha256_in_prefix": "1aa859abe9c99fc63f3d5ff6700f74ea682aefef74e9107dd6265821106368a7",
+        "size_in_bytes": 2395
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "a5461cef113d936a30155a6a20571a6ca14832d8a3f8caf049f5e9af2582c10d",
+        "sha256_in_prefix": "a5461cef113d936a30155a6a20571a6ca14832d8a3f8caf049f5e9af2582c10d",
+        "size_in_bytes": 6335
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "20b2b0e009d9f5568ea9b4215976b9127ccd8a4504b37f6134e276a75f13dfc0",
+        "sha256_in_prefix": "20b2b0e009d9f5568ea9b4215976b9127ccd8a4504b37f6134e276a75f13dfc0",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "14f6eacd03394daf5bf86b7698fc9ad4d092ed7c483cee709840ea2bbb6598a3",
+        "sha256_in_prefix": "14f6eacd03394daf5bf86b7698fc9ad4d092ed7c483cee709840ea2bbb6598a3",
+        "size_in_bytes": 313
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6WebChannelQuickPrivate/Qt6WebChannelQuickPrivateVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "3a1705804852da2acf692c3fdd0368ef71245f28309e130cd838afe4f38f4ad2",
+        "sha256_in_prefix": "3a1705804852da2acf692c3fdd0368ef71245f28309e130cd838afe4f38f4ad2",
+        "size_in_bytes": 307
+      },
+      {
+        "_path": "Library/lib/qt6/bin/Qt6WebChannel.dll",
+        "path_type": "hardlink",
+        "sha256": "51c2505027e366ebeda7e47c4e9faa7d0a84fd033322f3e65f101c10c3d1baa2",
+        "sha256_in_prefix": "51c2505027e366ebeda7e47c4e9faa7d0a84fd033322f3e65f101c10c3d1baa2",
+        "size_in_bytes": 252744
+      },
+      {
+        "_path": "Library/lib/qt6/bin/Qt6WebChannelQuick.dll",
+        "path_type": "hardlink",
+        "sha256": "c4403c5c10de6df97b2c7aec9c462c6e3837f52d2449847cce12cba6bbecdbe4",
+        "sha256_in_prefix": "c4403c5c10de6df97b2c7aec9c462c6e3837f52d2449847cce12cba6bbecdbe4",
+        "size_in_bytes": 63304
+      },
+      {
+        "_path": "Library/lib/qt6/metatypes/qt6webchannel_metatypes.json",
+        "path_type": "hardlink",
+        "sha256": "8a2c103797009e03d218bbadf99e5edebf9fc65ff404212c12387cebc1c24413",
+        "sha256_in_prefix": "8a2c103797009e03d218bbadf99e5edebf9fc65ff404212c12387cebc1c24413",
+        "size_in_bytes": 9707
+      },
+      {
+        "_path": "Library/lib/qt6/metatypes/qt6webchannelquick_metatypes.json",
+        "path_type": "hardlink",
+        "sha256": "4d1c93e2adbc833bea4d0777bbd01a6883bd7a5b270655f5babce12019df1182",
+        "sha256_in_prefix": "4d1c93e2adbc833bea4d0777bbd01a6883bd7a5b270655f5babce12019df1182",
+        "size_in_bytes": 6533
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_webchannel.pri",
+        "path_type": "hardlink",
+        "sha256": "1ce53066fde5650b29e6913d6282cd4959533498973c6b7a85583780dea8f390",
+        "sha256_in_prefix": "1ce53066fde5650b29e6913d6282cd4959533498973c6b7a85583780dea8f390",
+        "size_in_bytes": 613
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_webchannel_private.pri",
+        "path_type": "hardlink",
+        "sha256": "22a7d752619ae2029e35488926677ff9f2bd2215dd5bbe16dbf2ce0510546407",
+        "sha256_in_prefix": "22a7d752619ae2029e35488926677ff9f2bd2215dd5bbe16dbf2ce0510546407",
+        "size_in_bytes": 560
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_webchannelquick.pri",
+        "path_type": "hardlink",
+        "sha256": "5774b8e89a1a3a8430e97e83524c04765eb755ee98a7b1f8525b0c6d9c97d054",
+        "sha256_in_prefix": "5774b8e89a1a3a8430e97e83524c04765eb755ee98a7b1f8525b0c6d9c97d054",
+        "size_in_bytes": 725
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_webchannelquick_private.pri",
+        "path_type": "hardlink",
+        "sha256": "a1ea0a2bcdb19da8fc3413413239a37865ab1fd7b6772fa2251643925a306686",
+        "sha256_in_prefix": "a1ea0a2bcdb19da8fc3413413239a37865ab1fd7b6772fa2251643925a306686",
+        "size_in_bytes": 640
+      },
+      {
+        "_path": "Library/lib/qt6/modules/WebChannel.json",
+        "path_type": "hardlink",
+        "sha256": "c525fcc1a8b9c299a2e523bee03547874bb23d7d9da7d8ee41089b2cf4eaf183",
+        "sha256_in_prefix": "c525fcc1a8b9c299a2e523bee03547874bb23d7d9da7d8ee41089b2cf4eaf183",
+        "size_in_bytes": 507
+      },
+      {
+        "_path": "Library/lib/qt6/modules/WebChannelQuick.json",
+        "path_type": "hardlink",
+        "sha256": "fac34df7bdc56c3c535a3f29ec69fe084c31792d1d35e0b33af6f8f7b84ef943",
+        "sha256_in_prefix": "fac34df7bdc56c3c535a3f29ec69fe084c31792d1d35e0b33af6f8f7b84ef943",
+        "size_in_bytes": 512
+      },
+      {
+        "_path": "Library/lib/qt6/qml/QtWebChannel/plugins.qmltypes",
+        "path_type": "hardlink",
+        "sha256": "f3b9db38f7216fd52bf95c005158eeeff1a9472c6ae63aa2578b77c338ac3cb3",
+        "sha256_in_prefix": "f3b9db38f7216fd52bf95c005158eeeff1a9472c6ae63aa2578b77c338ac3cb3",
+        "size_in_bytes": 4074
+      },
+      {
+        "_path": "Library/lib/qt6/qml/QtWebChannel/qmldir",
+        "path_type": "hardlink",
+        "sha256": "0d728adee8ed1308524a8b3e5234781d8207a15dd6c738b74e62246f9679d21d",
+        "sha256_in_prefix": "0d728adee8ed1308524a8b3e5234781d8207a15dd6c738b74e62246f9679d21d",
+        "size_in_bytes": 205
+      },
+      {
+        "_path": "Library/lib/qt6/qml/QtWebChannel/webchannelquickplugin.dll",
+        "path_type": "hardlink",
+        "sha256": "f631fca9a6f4b4bf3546fa0a51708d7b38d04fb032970e8f4fd35297095e2bf1",
+        "sha256_in_prefix": "f631fca9a6f4b4bf3546fa0a51708d7b38d04fb032970e8f4fd35297095e2bf1",
+        "size_in_bytes": 30536
+      },
+      {
+        "_path": "Library/lib/qt6/sbom/qtwebchannel-6.11.0.spdx",
+        "path_type": "hardlink",
+        "sha256": "8c72fa1f32b3b54ba3a439607c1a5297c5dd6a4e7dfaa688dc5ff8dd389e236b",
+        "sha256_in_prefix": "8c72fa1f32b3b54ba3a439607c1a5297c5dd6a4e7dfaa688dc5ff8dd389e236b",
+        "size_in_bytes": 19540
+      },
+      {
+        "_path": "Library/share/qt6/webchannel/qwebchannel.js",
+        "path_type": "hardlink",
+        "sha256": "bb21d1663083c3fefed95b895282d095aaa1f57f7697c0170ea79ffd205421b2",
+        "sha256_in_prefix": "bb21d1663083c3fefed95b895282d095aaa1f57f7697c0170ea79ffd205421b2",
+        "size_in_bytes": 16054
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "21a2732a6214bd9f5529300b4e6b65b95b897a80e5dc7703b1b7f23c13e6ebdd",
+  "size": 157111,
+  "subdir": "win-64",
+  "timestamp": 1781777124000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/qtwebchannel-6.11.0-h5895b07_1.conda",
+  "version": "6.11.0"
+}

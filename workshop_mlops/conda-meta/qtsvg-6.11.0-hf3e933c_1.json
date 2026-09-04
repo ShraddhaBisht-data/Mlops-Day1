@@ -1,0 +1,877 @@
+{
+  "build": "hf3e933c_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libzlib >=1.3.1,<2.0a0",
+    "qtbase >=6.11.0,<6.12.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.42.34433"
+  ],
+  "extracted_package_dir": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtsvg-6.11.0-hf3e933c_1",
+  "files": [
+    "Library/bin/Qt6Svg.dll",
+    "Library/bin/Qt6SvgWidgets.dll",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgabstractanimation_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimate_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimatedproperty_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimator_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssanimation_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcsseasing_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcsshandler_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssproperties_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssvalues_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgdocument_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgeasinginterface_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgfilter_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgfont_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvggraphics_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvghandler_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvghelper_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgnode_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstructure_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstyle_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstyleselector_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgutils_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgvisitor_p.h",
+    "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qtsvgglobal_p.h",
+    "Library/include/qt6/QtSvg/QSvgGenerator",
+    "Library/include/qt6/QtSvg/QSvgRenderer",
+    "Library/include/qt6/QtSvg/QtSvg",
+    "Library/include/qt6/QtSvg/QtSvgDepends",
+    "Library/include/qt6/QtSvg/QtSvgVersion",
+    "Library/include/qt6/QtSvg/qsvggenerator.h",
+    "Library/include/qt6/QtSvg/qsvgrenderer.h",
+    "Library/include/qt6/QtSvg/qtsvgexports.h",
+    "Library/include/qt6/QtSvg/qtsvgglobal.h",
+    "Library/include/qt6/QtSvg/qtsvgversion.h",
+    "Library/include/qt6/QtSvgWidgets/QGraphicsSvgItem",
+    "Library/include/qt6/QtSvgWidgets/QSvgWidget",
+    "Library/include/qt6/QtSvgWidgets/QtSvgWidgets",
+    "Library/include/qt6/QtSvgWidgets/QtSvgWidgetsDepends",
+    "Library/include/qt6/QtSvgWidgets/QtSvgWidgetsVersion",
+    "Library/include/qt6/QtSvgWidgets/qgraphicssvgitem.h",
+    "Library/include/qt6/QtSvgWidgets/qsvgwidget.h",
+    "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsexports.h",
+    "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsglobal.h",
+    "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsversion.h",
+    "Library/lib/Qt6Svg.lib",
+    "Library/lib/Qt6Svg.prl",
+    "Library/lib/Qt6SvgWidgets.lib",
+    "Library/lib/Qt6SvgWidgets.prl",
+    "Library/lib/cmake/Qt6BuildInternals/StandaloneTests/QtSvgTestsConfig.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfigVersion.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfigVersion.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake",
+    "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgConfigVersion.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgDependencies.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgTargets-release.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgTargets.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6Svg/Qt6SvgVersionlessTargets.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfig.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersion.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateDependencies.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargets.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessTargets.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsAdditionalTargetInfo.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfig.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfigVersion.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfigVersionImpl.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsDependencies.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargets-release.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargets.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargetsPrecheck.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsVersionlessAliasTargets.cmake",
+    "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsVersionlessTargets.cmake",
+    "Library/lib/qt6/bin/Qt6Svg.dll",
+    "Library/lib/qt6/bin/Qt6SvgWidgets.dll",
+    "Library/lib/qt6/metatypes/qt6svg_metatypes.json",
+    "Library/lib/qt6/metatypes/qt6svgwidgets_metatypes.json",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_svg.pri",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_svg_private.pri",
+    "Library/lib/qt6/mkspecs/modules/qt_lib_svgwidgets.pri",
+    "Library/lib/qt6/modules/Svg.json",
+    "Library/lib/qt6/modules/SvgWidgets.json",
+    "Library/lib/qt6/plugins/iconengines/qsvgicon.dll",
+    "Library/lib/qt6/plugins/imageformats/qsvg.dll",
+    "Library/lib/qt6/sbom/qtsvg-6.11.0.spdx"
+  ],
+  "fn": "qtsvg-6.11.0-hf3e933c_1.conda",
+  "license": "LGPL-3.0-only",
+  "link": {
+    "source": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtsvg-6.11.0-hf3e933c_1",
+    "type": 1
+  },
+  "md5": "ae7307d9833aa7817228fbaae2c8f358",
+  "name": "qtsvg",
+  "package_tarball_full_path": "C:\\Users\\aayush bisht\\.conda\\pkgs\\qtsvg-6.11.0-hf3e933c_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/Qt6Svg.dll",
+        "path_type": "hardlink",
+        "sha256": "5e28abc1a58325de8e386c79327411b160ec9a37422b8faae458e5974c4210f4",
+        "sha256_in_prefix": "5e28abc1a58325de8e386c79327411b160ec9a37422b8faae458e5974c4210f4",
+        "size_in_bytes": 661320
+      },
+      {
+        "_path": "Library/bin/Qt6SvgWidgets.dll",
+        "path_type": "hardlink",
+        "sha256": "6a2c5a59157776c133bebbcab4dd409ced40211ab1cd9f1aeb5e500fcd3bb5d0",
+        "sha256_in_prefix": "6a2c5a59157776c133bebbcab4dd409ced40211ab1cd9f1aeb5e500fcd3bb5d0",
+        "size_in_bytes": 59208
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgabstractanimation_p.h",
+        "path_type": "hardlink",
+        "sha256": "0e0d926d166334c4eb9f23a9787106ce5d26eebe692600b63b1ee5362b3aa1e6",
+        "sha256_in_prefix": "0e0d926d166334c4eb9f23a9787106ce5d26eebe692600b63b1ee5362b3aa1e6",
+        "size_in_bytes": 1666
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimate_p.h",
+        "path_type": "hardlink",
+        "sha256": "ff3614183ce34aa6ae53936293bbb393d541fd83c887b5421fd4fe4a8e11d7b7",
+        "sha256_in_prefix": "ff3614183ce34aa6ae53936293bbb393d541fd83c887b5421fd4fe4a8e11d7b7",
+        "size_in_bytes": 2589
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimatedproperty_p.h",
+        "path_type": "hardlink",
+        "sha256": "f03f204438287cef64a9e96076209c0ddc6c6461231c4640308ebb40498eb921",
+        "sha256_in_prefix": "f03f204438287cef64a9e96076209c0ddc6c6461231c4640308ebb40498eb921",
+        "size_in_bytes": 3110
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvganimator_p.h",
+        "path_type": "hardlink",
+        "sha256": "5d6fd95c95492e7a464ac3b0efd4c7daf07f820274072af0ccd62e479efaa6fd",
+        "sha256_in_prefix": "5d6fd95c95492e7a464ac3b0efd4c7daf07f820274072af0ccd62e479efaa6fd",
+        "size_in_bytes": 2092
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssanimation_p.h",
+        "path_type": "hardlink",
+        "sha256": "88387490dc59861f7336a0fc8c38af73a952d6a0a3ca2ae29b8e6591834299ed",
+        "sha256_in_prefix": "88387490dc59861f7336a0fc8c38af73a952d6a0a3ca2ae29b8e6591834299ed",
+        "size_in_bytes": 801
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcsseasing_p.h",
+        "path_type": "hardlink",
+        "sha256": "334660e1d2b81ce3454750e35535897524f654db5cfe6267505816728a00619c",
+        "sha256_in_prefix": "334660e1d2b81ce3454750e35535897524f654db5cfe6267505816728a00619c",
+        "size_in_bytes": 1779
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcsshandler_p.h",
+        "path_type": "hardlink",
+        "sha256": "bb3e6d9d6453267fd77ed50c65ebc044850e704de3ff0ded8a17565c7a1b2ade",
+        "sha256_in_prefix": "bb3e6d9d6453267fd77ed50c65ebc044850e704de3ff0ded8a17565c7a1b2ade",
+        "size_in_bytes": 1875
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssproperties_p.h",
+        "path_type": "hardlink",
+        "sha256": "425d7f280b4e56249871555c1f56e2e2f76fe0727a1877622404b3423e77abb4",
+        "sha256_in_prefix": "425d7f280b4e56249871555c1f56e2e2f76fe0727a1877622404b3423e77abb4",
+        "size_in_bytes": 1994
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgcssvalues_p.h",
+        "path_type": "hardlink",
+        "sha256": "d9c2baf28e6078c0187c2393284fdf83b4c0078df8250fce696c88df3607093b",
+        "sha256_in_prefix": "d9c2baf28e6078c0187c2393284fdf83b4c0078df8250fce696c88df3607093b",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgdocument_p.h",
+        "path_type": "hardlink",
+        "sha256": "c124f72546c52f1a8182b65ff2a6dbf377f9d8713cde4a480239640c4034550e",
+        "sha256_in_prefix": "c124f72546c52f1a8182b65ff2a6dbf377f9d8713cde4a480239640c4034550e",
+        "size_in_bytes": 5942
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgeasinginterface_p.h",
+        "path_type": "hardlink",
+        "sha256": "d20427b2e2790f7d34a9e88e9547cb2b16248b783c782e17440172298e84acd9",
+        "sha256_in_prefix": "d20427b2e2790f7d34a9e88e9547cb2b16248b783c782e17440172298e84acd9",
+        "size_in_bytes": 847
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgfilter_p.h",
+        "path_type": "hardlink",
+        "sha256": "15fec839d6b7ff67237b5732e5eb57be920c96ae4fa808a778c1c78fd4f66ca9",
+        "sha256_in_prefix": "15fec839d6b7ff67237b5732e5eb57be920c96ae4fa808a778c1c78fd4f66ca9",
+        "size_in_bytes": 8538
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgfont_p.h",
+        "path_type": "hardlink",
+        "sha256": "2bb1da22fb442cb1c8466ef1379c81d544ec58e5e6a29aaba9867d845e6c8f94",
+        "sha256_in_prefix": "2bb1da22fb442cb1c8466ef1379c81d544ec58e5e6a29aaba9867d845e6c8f94",
+        "size_in_bytes": 2674
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvggraphics_p.h",
+        "path_type": "hardlink",
+        "sha256": "8419696dffe35f70cdada8fa80931b469601ec7800f81951abedf9abd5f3992b",
+        "sha256_in_prefix": "8419696dffe35f70cdada8fa80931b469601ec7800f81951abedf9abd5f3992b",
+        "size_in_bytes": 9657
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvghandler_p.h",
+        "path_type": "hardlink",
+        "sha256": "7abffa6753086cc65811ece60a745d24d1fe83e756fe8099c95038df3f5eddaa",
+        "sha256_in_prefix": "7abffa6753086cc65811ece60a745d24d1fe83e756fe8099c95038df3f5eddaa",
+        "size_in_bytes": 4108
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvghelper_p.h",
+        "path_type": "hardlink",
+        "sha256": "3f69ca503842911454babf0bd4b5dc55cdd5050fe24c172f811b819ab8b48718",
+        "sha256_in_prefix": "3f69ca503842911454babf0bd4b5dc55cdd5050fe24c172f811b819ab8b48718",
+        "size_in_bytes": 5086
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgnode_p.h",
+        "path_type": "hardlink",
+        "sha256": "dd651ef93ca16ea019dae709e232272851d1031227a02db0a3c2a224c78a78b3",
+        "sha256_in_prefix": "dd651ef93ca16ea019dae709e232272851d1031227a02db0a3c2a224c78a78b3",
+        "size_in_bytes": 6410
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstructure_p.h",
+        "path_type": "hardlink",
+        "sha256": "161656347798868204a9cd1d6272e9066a354663f4b60fa3fea825e2b47036cc",
+        "sha256_in_prefix": "161656347798868204a9cd1d6272e9066a354663f4b60fa3fea825e2b47036cc",
+        "size_in_bytes": 8756
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstyle_p.h",
+        "path_type": "hardlink",
+        "sha256": "55990248fbee127095abc5cb1dd9a05ce7051dc830b2adbbc901acc69f64cf47",
+        "sha256_in_prefix": "55990248fbee127095abc5cb1dd9a05ce7051dc830b2adbbc901acc69f64cf47",
+        "size_in_bytes": 20424
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgstyleselector_p.h",
+        "path_type": "hardlink",
+        "sha256": "895b9d3e90cf778e5f9fe6be60e4b85dd4b4511ec37e961c5dcdac28865b9896",
+        "sha256_in_prefix": "895b9d3e90cf778e5f9fe6be60e4b85dd4b4511ec37e961c5dcdac28865b9896",
+        "size_in_bytes": 1627
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgutils_p.h",
+        "path_type": "hardlink",
+        "sha256": "e379f78822edcf9ab6b0e35218e76db24ea5301aaf1602830bf31a5348b2afba",
+        "sha256_in_prefix": "e379f78822edcf9ab6b0e35218e76db24ea5301aaf1602830bf31a5348b2afba",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qsvgvisitor_p.h",
+        "path_type": "hardlink",
+        "sha256": "b5c11a992dbce3385c625394f55e368c306fd3abce5b0b603b2a1af64cc05728",
+        "sha256_in_prefix": "b5c11a992dbce3385c625394f55e368c306fd3abce5b0b603b2a1af64cc05728",
+        "size_in_bytes": 4006
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/6.11.0/QtSvg/private/qtsvgglobal_p.h",
+        "path_type": "hardlink",
+        "sha256": "c8dcca5d74da5a5813169c08331dc7dea248291b6e8e591443ed1b8fb80b4750",
+        "sha256_in_prefix": "c8dcca5d74da5a5813169c08331dc7dea248291b6e8e591443ed1b8fb80b4750",
+        "size_in_bytes": 908
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/QSvgGenerator",
+        "path_type": "hardlink",
+        "sha256": "04211ed9ee523a671fb409b498d0a0167ccb8a2ebf393e8d5178f95dd44e5303",
+        "sha256_in_prefix": "04211ed9ee523a671fb409b498d0a0167ccb8a2ebf393e8d5178f95dd44e5303",
+        "size_in_bytes": 57
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/QSvgRenderer",
+        "path_type": "hardlink",
+        "sha256": "22c7d4c8a7b05e358eb6079dcc63b4a4c775decef08b7cb856f30d26beefb2d9",
+        "sha256_in_prefix": "22c7d4c8a7b05e358eb6079dcc63b4a4c775decef08b7cb856f30d26beefb2d9",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/QtSvg",
+        "path_type": "hardlink",
+        "sha256": "fb95a20f76ce54b8ba78e3c229d81fd907139c08f2fe2658b57bcabe3ad1a5a1",
+        "sha256_in_prefix": "fb95a20f76ce54b8ba78e3c229d81fd907139c08f2fe2658b57bcabe3ad1a5a1",
+        "size_in_bytes": 225
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/QtSvgDepends",
+        "path_type": "hardlink",
+        "sha256": "2745600948ae4a2c0cdf203ecd27c905992703fb11cc8447995d9eafc0c1aaaa",
+        "sha256_in_prefix": "2745600948ae4a2c0cdf203ecd27c905992703fb11cc8447995d9eafc0c1aaaa",
+        "size_in_bytes": 186
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/QtSvgVersion",
+        "path_type": "hardlink",
+        "sha256": "ac01afb0be29bf2d694cf23ef4d1c8b51e4eadf5768d6d69fcc010a6ed1afc99",
+        "sha256_in_prefix": "ac01afb0be29bf2d694cf23ef4d1c8b51e4eadf5768d6d69fcc010a6ed1afc99",
+        "size_in_bytes": 56
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/qsvggenerator.h",
+        "path_type": "hardlink",
+        "sha256": "11cb848550994f48df708d7d56e980fcc1048261282446f4ca1ed8508342d0ca",
+        "sha256_in_prefix": "11cb848550994f48df708d7d56e980fcc1048261282446f4ca1ed8508342d0ca",
+        "size_in_bytes": 2239
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/qsvgrenderer.h",
+        "path_type": "hardlink",
+        "sha256": "282715c52738a91732f86ce3c9ad90700ede2a32c55c1962600aec3ef87b88a4",
+        "sha256_in_prefix": "282715c52738a91732f86ce3c9ad90700ede2a32c55c1962600aec3ef87b88a4",
+        "size_in_bytes": 2712
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/qtsvgexports.h",
+        "path_type": "hardlink",
+        "sha256": "599ae474eb1ee1547dc36bffdc2e4223ff44d27a900eb0bf1f84c1e603c73e9c",
+        "sha256_in_prefix": "599ae474eb1ee1547dc36bffdc2e4223ff44d27a900eb0bf1f84c1e603c73e9c",
+        "size_in_bytes": 2148
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/qtsvgglobal.h",
+        "path_type": "hardlink",
+        "sha256": "ed6b31616b2471e024607b96996fec258ae5b4d5be88c3ee7d76a1476fff4ade",
+        "sha256_in_prefix": "ed6b31616b2471e024607b96996fec258ae5b4d5be88c3ee7d76a1476fff4ade",
+        "size_in_bytes": 950
+      },
+      {
+        "_path": "Library/include/qt6/QtSvg/qtsvgversion.h",
+        "path_type": "hardlink",
+        "sha256": "ddd34325a725c6787a3eb6e7241d55f484f67342e7dfb8dd56c8a5d92189bca0",
+        "sha256_in_prefix": "ddd34325a725c6787a3eb6e7241d55f484f67342e7dfb8dd56c8a5d92189bca0",
+        "size_in_bytes": 203
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/QGraphicsSvgItem",
+        "path_type": "hardlink",
+        "sha256": "10487e61e64aa5324a070392de59932a58b467ecbf4b75eeea8a492820413ecb",
+        "sha256_in_prefix": "10487e61e64aa5324a070392de59932a58b467ecbf4b75eeea8a492820413ecb",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/QSvgWidget",
+        "path_type": "hardlink",
+        "sha256": "d9f116e74ac715651bd95bca727d969e8cb2ad8a84eb75bb98152c69887d6c57",
+        "sha256_in_prefix": "d9f116e74ac715651bd95bca727d969e8cb2ad8a84eb75bb98152c69887d6c57",
+        "size_in_bytes": 61
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/QtSvgWidgets",
+        "path_type": "hardlink",
+        "sha256": "644fa3cfbc885096be896265ecf1068a6f37896a69bcec6214902b23610ff09b",
+        "sha256_in_prefix": "644fa3cfbc885096be896265ecf1068a6f37896a69bcec6214902b23610ff09b",
+        "size_in_bytes": 296
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/QtSvgWidgetsDepends",
+        "path_type": "hardlink",
+        "sha256": "e6fd9446dfe6ef1a33794da85c00045874beba3b1b166d1d5d82d19d1afde301",
+        "sha256_in_prefix": "e6fd9446dfe6ef1a33794da85c00045874beba3b1b166d1d5d82d19d1afde301",
+        "size_in_bytes": 253
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/QtSvgWidgetsVersion",
+        "path_type": "hardlink",
+        "sha256": "a6ffa406f6f5b104fa7f162e8703de664bd5143fccefe49bd0bb421faf68df37",
+        "sha256_in_prefix": "a6ffa406f6f5b104fa7f162e8703de664bd5143fccefe49bd0bb421faf68df37",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/qgraphicssvgitem.h",
+        "path_type": "hardlink",
+        "sha256": "b495a0113ace2822573300f07d29ebb342e0095305879d60844612358d7834c8",
+        "sha256_in_prefix": "b495a0113ace2822573300f07d29ebb342e0095305879d60844612358d7834c8",
+        "size_in_bytes": 1673
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/qsvgwidget.h",
+        "path_type": "hardlink",
+        "sha256": "2af72744443ce8b36c7ceb39edb34e502100a801054b868e1ecc74cce973f03f",
+        "sha256_in_prefix": "2af72744443ce8b36c7ceb39edb34e502100a801054b868e1ecc74cce973f03f",
+        "size_in_bytes": 1037
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsexports.h",
+        "path_type": "hardlink",
+        "sha256": "c13b0fb22c6d086b3f061e12499fcd2d50f034dbaefe469588ee38a61361d3a3",
+        "sha256_in_prefix": "c13b0fb22c6d086b3f061e12499fcd2d50f034dbaefe469588ee38a61361d3a3",
+        "size_in_bytes": 2302
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsglobal.h",
+        "path_type": "hardlink",
+        "sha256": "eaf62ce13155549899c130780636d4d038652667cc1fd150f34307158c466411",
+        "sha256_in_prefix": "eaf62ce13155549899c130780636d4d038652667cc1fd150f34307158c466411",
+        "size_in_bytes": 366
+      },
+      {
+        "_path": "Library/include/qt6/QtSvgWidgets/qtsvgwidgetsversion.h",
+        "path_type": "hardlink",
+        "sha256": "bd1d28c745c839bb5917ed5c55dd064cb152d3377c83eb555f37c4e956acc272",
+        "sha256_in_prefix": "bd1d28c745c839bb5917ed5c55dd064cb152d3377c83eb555f37c4e956acc272",
+        "size_in_bytes": 238
+      },
+      {
+        "_path": "Library/lib/Qt6Svg.lib",
+        "path_type": "hardlink",
+        "sha256": "0de730cb6927be90a30ecb7c030511ce38444f5d664030ddd2534b32984c4c9d",
+        "sha256_in_prefix": "0de730cb6927be90a30ecb7c030511ce38444f5d664030ddd2534b32984c4c9d",
+        "size_in_bytes": 376972
+      },
+      {
+        "_path": "Library/lib/Qt6Svg.prl",
+        "path_type": "hardlink",
+        "sha256": "acc37e35d8a54226755f821eaeec682c4b545c0e5b59116a71c40851e8987bd4",
+        "sha256_in_prefix": "acc37e35d8a54226755f821eaeec682c4b545c0e5b59116a71c40851e8987bd4",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "Library/lib/Qt6SvgWidgets.lib",
+        "path_type": "hardlink",
+        "sha256": "914248b639f64ddb7dfac4f86400868b0ff9a98a30ad398690b61b873d0263b1",
+        "sha256_in_prefix": "914248b639f64ddb7dfac4f86400868b0ff9a98a30ad398690b61b873d0263b1",
+        "size_in_bytes": 18254
+      },
+      {
+        "_path": "Library/lib/Qt6SvgWidgets.prl",
+        "path_type": "hardlink",
+        "sha256": "01deb2144ca2be8ae9bf6107b5ba4e6c359b8b89de8b87010242cecdfbcb8797",
+        "sha256_in_prefix": "01deb2144ca2be8ae9bf6107b5ba4e6c359b8b89de8b87010242cecdfbcb8797",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6BuildInternals/StandaloneTests/QtSvgTestsConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "fe0670d5a2a5229a78272d743cae298b67ac64f4b330a1e347f2ae40d7483eb0",
+        "sha256_in_prefix": "fe0670d5a2a5229a78272d743cae298b67ac64f4b330a1e347f2ae40d7483eb0",
+        "size_in_bytes": 272
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "1a6378dde498ca1dc63547bdadc9dc0c9b1fe7a652a4367b535be1aecf8834cb",
+        "sha256_in_prefix": "1a6378dde498ca1dc63547bdadc9dc0c9b1fe7a652a4367b535be1aecf8834cb",
+        "size_in_bytes": 1637
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "568cf7e897ee09b932488d2af59067699cd353d31eef21478b4e140711ad3eda",
+        "sha256_in_prefix": "568cf7e897ee09b932488d2af59067699cd353d31eef21478b4e140711ad3eda",
+        "size_in_bytes": 1843
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "e716a108b512611a9413524d7c6f704c5ab4822ef9231f1a9f9915579821fdf1",
+        "sha256_in_prefix": "e716a108b512611a9413524d7c6f704c5ab4822ef9231f1a9f9915579821fdf1",
+        "size_in_bytes": 3087
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "36254012d8bf6c1ba36d5d3d3c42e4403a14985785c830347f42f6a003b1dd5e",
+        "sha256_in_prefix": "36254012d8bf6c1ba36d5d3d3c42e4403a14985785c830347f42f6a003b1dd5e",
+        "size_in_bytes": 933
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "81491fea52b07aaa433306a176f5b08a2fe31b7d1490b03dca0f3cc921637bdd",
+        "sha256_in_prefix": "81491fea52b07aaa433306a176f5b08a2fe31b7d1490b03dca0f3cc921637bdd",
+        "size_in_bytes": 5020
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "fe5ef28c177692a1f9a9c9875151e6fe6102f526cbddc9c5a974380a9edec975",
+        "sha256_in_prefix": "fe5ef28c177692a1f9a9c9875151e6fe6102f526cbddc9c5a974380a9edec975",
+        "size_in_bytes": 193
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "5201d232090e522bdacc456bfef8f1557167789e0070f84c83a9ad95baa0179a",
+        "sha256_in_prefix": "5201d232090e522bdacc456bfef8f1557167789e0070f84c83a9ad95baa0179a",
+        "size_in_bytes": 1593
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "b944b4367f20efd7808a6309fb61b3a92a82bebaf1c1f9c8d399ac59bc40b896",
+        "sha256_in_prefix": "b944b4367f20efd7808a6309fb61b3a92a82bebaf1c1f9c8d399ac59bc40b896",
+        "size_in_bytes": 1807
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "ae1e4eb5afcf0eced1585a981244dcd0d51e65b436ce694308cf8538bba5a42c",
+        "sha256_in_prefix": "ae1e4eb5afcf0eced1585a981244dcd0d51e65b436ce694308cf8538bba5a42c",
+        "size_in_bytes": 3083
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "b935708a9245d59a680a504b2c87fdec9ed09ff242eabbef4d00bc0219c9d0df",
+        "sha256_in_prefix": "b935708a9245d59a680a504b2c87fdec9ed09ff242eabbef4d00bc0219c9d0df",
+        "size_in_bytes": 907
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "34ebc8a42450647c6613f7b48d39c47771aa848fe22282c0cb209169fb55e6a3",
+        "sha256_in_prefix": "34ebc8a42450647c6613f7b48d39c47771aa848fe22282c0cb209169fb55e6a3",
+        "size_in_bytes": 4989
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "8db75856ae81fb34241ecece3ee199eaaa8e654ade8f0fce195cb21d05b801af",
+        "sha256_in_prefix": "8db75856ae81fb34241ecece3ee199eaaa8e654ade8f0fce195cb21d05b801af",
+        "size_in_bytes": 185
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "749570d8888bc80b59d9c1563c96d913d014e452ece631d58c146d2dca44e3e6",
+        "sha256_in_prefix": "749570d8888bc80b59d9c1563c96d913d014e452ece631d58c146d2dca44e3e6",
+        "size_in_bytes": 2862
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "39c5502589e70e2371a26c7bbb0ecf5d60f369fc687f0c13bf363e8bdbee86ca",
+        "sha256_in_prefix": "39c5502589e70e2371a26c7bbb0ecf5d60f369fc687f0c13bf363e8bdbee86ca",
+        "size_in_bytes": 9143
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "84e223acab6ed489a855511159b7e0688c3595e518af5fba3e277a5a4ab0735b",
+        "sha256_in_prefix": "84e223acab6ed489a855511159b7e0688c3595e518af5fba3e277a5a4ab0735b",
+        "size_in_bytes": 3076
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "8ec9537b09dd19294e418ad9eef722bd0997ada2e8328759646d6a6745751ec1",
+        "sha256_in_prefix": "8ec9537b09dd19294e418ad9eef722bd0997ada2e8328759646d6a6745751ec1",
+        "size_in_bytes": 1993
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "f0bbc596992dc6393b5d6bf52f4cfd9689e7e7427bfc9abfaec3b2de908c6da1",
+        "sha256_in_prefix": "f0bbc596992dc6393b5d6bf52f4cfd9689e7e7427bfc9abfaec3b2de908c6da1",
+        "size_in_bytes": 892
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d59024801d256bf3c8c117d3253378cbc03615610e8f20996f87fe91a8390aa4",
+        "sha256_in_prefix": "d59024801d256bf3c8c117d3253378cbc03615610e8f20996f87fe91a8390aa4",
+        "size_in_bytes": 5543
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "dd9dddce31a4aea15974a30a63c4a1352245c931978675efa5b7c22e9851203d",
+        "sha256_in_prefix": "dd9dddce31a4aea15974a30a63c4a1352245c931978675efa5b7c22e9851203d",
+        "size_in_bytes": 141
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "55b4aeda5121d30a5fdd1fb1d70723a146a0189249b2f43d78c35534d4172b97",
+        "sha256_in_prefix": "55b4aeda5121d30a5fdd1fb1d70723a146a0189249b2f43d78c35534d4172b97",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6Svg/Qt6SvgVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "40ff0370c8f1d33d2d6137ecf419b22683157a543e1fb22057d3b731709bd80e",
+        "sha256_in_prefix": "40ff0370c8f1d33d2d6137ecf419b22683157a543e1fb22057d3b731709bd80e",
+        "size_in_bytes": 288
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "9b3096b2b6c3adefdca3f7d8f63c134f412ae29b4700a4170dd5af202d74cb0d",
+        "sha256_in_prefix": "9b3096b2b6c3adefdca3f7d8f63c134f412ae29b4700a4170dd5af202d74cb0d",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "6de66e6f1eab540431eef7eb7c8da706be334dd79f79dab113c3c0829aa0b209",
+        "sha256_in_prefix": "6de66e6f1eab540431eef7eb7c8da706be334dd79f79dab113c3c0829aa0b209",
+        "size_in_bytes": 3244
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "ef32cf5e2b0c11dd28e480457b4d0a1c9a3f61592be0351046bcfb160c73d7df",
+        "sha256_in_prefix": "ef32cf5e2b0c11dd28e480457b4d0a1c9a3f61592be0351046bcfb160c73d7df",
+        "size_in_bytes": 3083
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "ecef6246e90c3fa353d2e3a33f96846ee6fcbfab24e6916ac1e39db827528bd0",
+        "sha256_in_prefix": "ecef6246e90c3fa353d2e3a33f96846ee6fcbfab24e6916ac1e39db827528bd0",
+        "size_in_bytes": 2187
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d388f724612cb20736511e711e5d9fd4647deeacd2627396dfe2da2298fe3cd0",
+        "sha256_in_prefix": "d388f724612cb20736511e711e5d9fd4647deeacd2627396dfe2da2298fe3cd0",
+        "size_in_bytes": 6112
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "25f676692ff9e6f164476911e1955f511fed9cd984d5119f29f859b6d488121b",
+        "sha256_in_prefix": "25f676692ff9e6f164476911e1955f511fed9cd984d5119f29f859b6d488121b",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "33a46efb9d86e4ae4c2875125c028876bfcfbe988e1b3a856ddecad367ba332d",
+        "sha256_in_prefix": "33a46efb9d86e4ae4c2875125c028876bfcfbe988e1b3a856ddecad367ba332d",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgPrivate/Qt6SvgPrivateVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "800945e777ef5512a3344786fd783fc2a2fd6ed755ed4b7f5724a5c5a648b365",
+        "sha256_in_prefix": "800945e777ef5512a3344786fd783fc2a2fd6ed755ed4b7f5724a5c5a648b365",
+        "size_in_bytes": 295
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsAdditionalTargetInfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "63c2f838d8fdc4446d6f9a2c291e223f3c05e64d3ea3312c2843bb3929ef52ed",
+        "sha256_in_prefix": "63c2f838d8fdc4446d6f9a2c291e223f3c05e64d3ea3312c2843bb3929ef52ed",
+        "size_in_bytes": 3009
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "4491523a612144cc0f51e1e6c2aea8b94c0b523422322ac5d0a1b84a2e3ef814",
+        "sha256_in_prefix": "4491523a612144cc0f51e1e6c2aea8b94c0b523422322ac5d0a1b84a2e3ef814",
+        "size_in_bytes": 9730
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "ed9540698a4463a53a7d65252a3af1bf4a61b04b6e527aa178afec59a427484a",
+        "sha256_in_prefix": "ed9540698a4463a53a7d65252a3af1bf4a61b04b6e527aa178afec59a427484a",
+        "size_in_bytes": 3083
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsConfigVersionImpl.cmake",
+        "path_type": "hardlink",
+        "sha256": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "sha256_in_prefix": "19bd3adf503150019087cc01e457b87424ea6eaa16bda74760a335228a1e3bbb",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsDependencies.cmake",
+        "path_type": "hardlink",
+        "sha256": "6c781cf197b5eb92ea4521b81c15a8935f2d8370d48ccc8f52cad601b48bea08",
+        "sha256_in_prefix": "6c781cf197b5eb92ea4521b81c15a8935f2d8370d48ccc8f52cad601b48bea08",
+        "size_in_bytes": 2186
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "199128c9b9dd9c06affe8f84405d6068c8bb2ca8c9587dd110e8620b7378573c",
+        "sha256_in_prefix": "199128c9b9dd9c06affe8f84405d6068c8bb2ca8c9587dd110e8620b7378573c",
+        "size_in_bytes": 955
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "2457c8016a91052bbd3ef79a7a6ad09e6aff883242e83fcfceb76f3878664627",
+        "sha256_in_prefix": "2457c8016a91052bbd3ef79a7a6ad09e6aff883242e83fcfceb76f3878664627",
+        "size_in_bytes": 6378
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsTargetsPrecheck.cmake",
+        "path_type": "hardlink",
+        "sha256": "eed3b5e2d787fbf96ace732404f1ddefcb2d9227b54272614cb1cfcaf5646712",
+        "sha256_in_prefix": "eed3b5e2d787fbf96ace732404f1ddefcb2d9227b54272614cb1cfcaf5646712",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsVersionlessAliasTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "273b4a7de2f3350cf3d068a26c78e329d4c2037334d09c852314d7fa208c5f65",
+        "sha256_in_prefix": "273b4a7de2f3350cf3d068a26c78e329d4c2037334d09c852314d7fa208c5f65",
+        "size_in_bytes": 301
+      },
+      {
+        "_path": "Library/lib/cmake/Qt6SvgWidgets/Qt6SvgWidgetsVersionlessTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "c967ab45acd9242177aee13b22c5647426d7e80d887deab038b636d7a1ecf053",
+        "sha256_in_prefix": "c967ab45acd9242177aee13b22c5647426d7e80d887deab038b636d7a1ecf053",
+        "size_in_bytes": 295
+      },
+      {
+        "_path": "Library/lib/qt6/bin/Qt6Svg.dll",
+        "path_type": "hardlink",
+        "sha256": "03de4b13cbd56b6b0e9eedd7ae58c9f30b0175e66227635f29be80acf2fc152b",
+        "sha256_in_prefix": "03de4b13cbd56b6b0e9eedd7ae58c9f30b0175e66227635f29be80acf2fc152b",
+        "size_in_bytes": 661320
+      },
+      {
+        "_path": "Library/lib/qt6/bin/Qt6SvgWidgets.dll",
+        "path_type": "hardlink",
+        "sha256": "b052ff0a3e4768edca3251045cb481351f955895d6275084cf0b510d44b2d050",
+        "sha256_in_prefix": "b052ff0a3e4768edca3251045cb481351f955895d6275084cf0b510d44b2d050",
+        "size_in_bytes": 59208
+      },
+      {
+        "_path": "Library/lib/qt6/metatypes/qt6svg_metatypes.json",
+        "path_type": "hardlink",
+        "sha256": "059835d4829da65a69a4aa59bd8e16249d15eec49f09008925c338d8adab19a6",
+        "sha256_in_prefix": "059835d4829da65a69a4aa59bd8e16249d15eec49f09008925c338d8adab19a6",
+        "size_in_bytes": 9101
+      },
+      {
+        "_path": "Library/lib/qt6/metatypes/qt6svgwidgets_metatypes.json",
+        "path_type": "hardlink",
+        "sha256": "ff01d13a5e2c6b6b946d61209c50fe5f4144da79a0dc1bc4847a1334e9e3bf61",
+        "sha256_in_prefix": "ff01d13a5e2c6b6b946d61209c50fe5f4144da79a0dc1bc4847a1334e9e3bf61",
+        "size_in_bytes": 4015
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_svg.pri",
+        "path_type": "hardlink",
+        "sha256": "9da09e54b5bfc0c7316a09d1aa8424fe63850527ffdad575345e8d58833869d6",
+        "sha256_in_prefix": "9da09e54b5bfc0c7316a09d1aa8424fe63850527ffdad575345e8d58833869d6",
+        "size_in_bytes": 451
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_svg_private.pri",
+        "path_type": "hardlink",
+        "sha256": "bf509ef6f59f32860439e2057fc06ea9f84debc3f8aaf3756ce5fc40a6d4a999",
+        "sha256_in_prefix": "bf509ef6f59f32860439e2057fc06ea9f84debc3f8aaf3756ce5fc40a6d4a999",
+        "size_in_bytes": 473
+      },
+      {
+        "_path": "Library/lib/qt6/mkspecs/modules/qt_lib_svgwidgets.pri",
+        "path_type": "hardlink",
+        "sha256": "b01f8c385b78bc7b6b0f3f4f1ac8f86e6c442cc8c254ac49cef16ac33179f7b2",
+        "sha256_in_prefix": "b01f8c385b78bc7b6b0f3f4f1ac8f86e6c442cc8c254ac49cef16ac33179f7b2",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "Library/lib/qt6/modules/Svg.json",
+        "path_type": "hardlink",
+        "sha256": "1241a89d824c1d164a421145ff129fb00e647b9cec0d7b4a8875b9f776935391",
+        "sha256_in_prefix": "1241a89d824c1d164a421145ff129fb00e647b9cec0d7b4a8875b9f776935391",
+        "size_in_bytes": 493
+      },
+      {
+        "_path": "Library/lib/qt6/modules/SvgWidgets.json",
+        "path_type": "hardlink",
+        "sha256": "7a35909b80ea654c4b55aebc8af335948898f99614c688f739c4531d7820c5c8",
+        "sha256_in_prefix": "7a35909b80ea654c4b55aebc8af335948898f99614c688f739c4531d7820c5c8",
+        "size_in_bytes": 500
+      },
+      {
+        "_path": "Library/lib/qt6/plugins/iconengines/qsvgicon.dll",
+        "path_type": "hardlink",
+        "sha256": "d6b0a6873f994e812c8e1a82b10151467e36f88b1afd7136c08b13cc2b445079",
+        "sha256_in_prefix": "d6b0a6873f994e812c8e1a82b10151467e36f88b1afd7136c08b13cc2b445079",
+        "size_in_bytes": 72008
+      },
+      {
+        "_path": "Library/lib/qt6/plugins/imageformats/qsvg.dll",
+        "path_type": "hardlink",
+        "sha256": "6ee037871f4016fd21af7b907681b71acbe1136731dd57bb46f6f80044e72231",
+        "sha256_in_prefix": "6ee037871f4016fd21af7b907681b71acbe1136731dd57bb46f6f80044e72231",
+        "size_in_bytes": 38728
+      },
+      {
+        "_path": "Library/lib/qt6/sbom/qtsvg-6.11.0.spdx",
+        "path_type": "hardlink",
+        "sha256": "ed52f0e1baeb7086124c6a42646f8fff9f868909407afc1f5e997d34c4840af5",
+        "sha256_in_prefix": "ed52f0e1baeb7086124c6a42646f8fff9f868909407afc1f5e997d34c4840af5",
+        "size_in_bytes": 33161
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "48e21f57f3bf51aba8f5d931c33d82848157cbb8c1b04383a059a192cc044a8b",
+  "size": 352066,
+  "subdir": "win-64",
+  "timestamp": 1781701374000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/qtsvg-6.11.0-hf3e933c_1.conda",
+  "version": "6.11.0"
+}

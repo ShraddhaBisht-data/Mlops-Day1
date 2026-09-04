@@ -1,0 +1,16 @@
+prefix=C:/Mlops Day 1/workshop_mlops/Library
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+sysconfdir=C:/Mlops Day 1/workshop_mlops/Library/etc
+localstatedir=C:/Mlops Day 1/workshop_mlops/Library/var
+confdir=C:/Mlops Day 1/workshop_mlops/Library/etc/fonts
+cachedir=LOCAL_APPDATA_FONTCONFIG_CACHE
+
+Name: Fontconfig
+Description: Font configuration and customization library
+Version: 2.15.0
+Requires: freetype2 >=  21.0.15
+Libs: -L${libdir} -lfontconfig
+Libs.private: C:/Mlops Day 1/workshop_mlops/Library/lib/expat.lib
+Cflags: -I${includedir}

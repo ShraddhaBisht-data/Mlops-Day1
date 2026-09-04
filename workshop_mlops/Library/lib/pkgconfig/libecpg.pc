@@ -1,0 +1,12 @@
+prefix=C:/Mlops Day 1/workshop_mlops/Library
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: libecpg
+Description: PostgreSQL libecpg library
+URL: https://www.postgresql.org/
+Version: 17.10
+Requires.private: libpgtypes, libpq
+Libs: -L${libdir} -lecpg
+Libs.private: -lws2_32 -L${libdir} -lpgport C:/Mlops Day 1/workshop_mlops/Library/lib/libcrypto.lib C:/Mlops Day 1/workshop_mlops/Library/lib/libssl.lib -lpgcommon C:/Mlops Day 1/workshop_mlops/Library/lib/z.lib C:/Mlops Day 1/workshop_mlops/Library/lib/zstd.lib C:/Mlops Day 1/workshop_mlops/Library/lib/libcrypto.lib C:/Mlops Day 1/workshop_mlops/Library/lib/libssl.lib C:/Mlops Day 1/workshop_mlops/Library/lib/z.lib C:/Mlops Day 1/workshop_mlops/Library/lib/zstd.lib C:/Mlops Day 1/workshop_mlops/Library/lib/z.lib C:/Mlops Day 1/workshop_mlops/Library/lib/zstd.lib C:/Mlops Day 1/workshop_mlops/Library/lib/z.lib C:/Mlops Day 1/workshop_mlops/Library/lib/zstd.lib C:/Mlops Day 1/workshop_mlops/Library/lib/z.lib C:/Mlops Day 1/workshop_mlops/Library/lib/zstd.lib
+Cflags: -I${includedir}

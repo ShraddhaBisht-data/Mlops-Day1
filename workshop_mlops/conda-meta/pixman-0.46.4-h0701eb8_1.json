@@ -1,0 +1,77 @@
+{
+  "build": "h0701eb8_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\aayush bisht\\.conda\\pkgs\\pixman-0.46.4-h0701eb8_1",
+  "files": [
+    "Library/bin/pixman-1-0.dll",
+    "Library/include/pixman-1/pixman-version.h",
+    "Library/include/pixman-1/pixman.h",
+    "Library/lib/pixman-1.lib",
+    "Library/lib/pkgconfig/pixman-1.pc"
+  ],
+  "fn": "pixman-0.46.4-h0701eb8_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\aayush bisht\\.conda\\pkgs\\pixman-0.46.4-h0701eb8_1",
+    "type": 1
+  },
+  "md5": "c82f713ce022515a1ef9ae58a368e921",
+  "name": "pixman",
+  "package_tarball_full_path": "C:\\Users\\aayush bisht\\.conda\\pkgs\\pixman-0.46.4-h0701eb8_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/pixman-1-0.dll",
+        "path_type": "hardlink",
+        "sha256": "1b11de31a9ed5fc006ff3b63711d1904281ec11f2c299a04e2063e84bab39d68",
+        "sha256_in_prefix": "1b11de31a9ed5fc006ff3b63711d1904281ec11f2c299a04e2063e84bab39d68",
+        "size_in_bytes": 612168
+      },
+      {
+        "_path": "Library/include/pixman-1/pixman-version.h",
+        "path_type": "hardlink",
+        "sha256": "eebbff4b66cbcc98b3ffa16c68a919d4a16dfcffb86cd1fb85faea4f07bcd76b",
+        "sha256_in_prefix": "eebbff4b66cbcc98b3ffa16c68a919d4a16dfcffb86cd1fb85faea4f07bcd76b",
+        "size_in_bytes": 1786
+      },
+      {
+        "_path": "Library/include/pixman-1/pixman.h",
+        "path_type": "hardlink",
+        "sha256": "af49363cee8b2340a215e1ea477761c2c867905c17abe129e5778bfc65033f53",
+        "sha256_in_prefix": "af49363cee8b2340a215e1ea477761c2c867905c17abe129e5778bfc65033f53",
+        "size_in_bytes": 55372
+      },
+      {
+        "_path": "Library/lib/pixman-1.lib",
+        "path_type": "hardlink",
+        "sha256": "724d4b9155a4933444b0578bcb588049f1f442f1d0827cfa5c6f57b18ae9b004",
+        "sha256_in_prefix": "724d4b9155a4933444b0578bcb588049f1f442f1d0827cfa5c6f57b18ae9b004",
+        "size_in_bytes": 51264
+      },
+      {
+        "_path": "Library/lib/pkgconfig/pixman-1.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/Users/task_178241055715990/croot/pixman_1782411385507/_h_env",
+        "sha256": "6473e505266dc9f8708c7461b359b06593a7b5a8fdce12cba7dd0782a3846781",
+        "sha256_in_prefix": "694be47d39e12bb459f365c4fe588eeb0b19ecee66c1b8628f37ba9669bff623",
+        "size_in_bytes": 274
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7bc957aabb82bc101129fe84a7132738661d09b1db35b29670b3cffcca5e7867",
+  "size": 239614,
+  "subdir": "win-64",
+  "timestamp": 1782411521000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pixman-0.46.4-h0701eb8_1.conda",
+  "version": "0.46.4"
+}
