@@ -27,4 +27,5 @@ build/
 dist/
 *.egg-info/
   
+  workshop_mlops/
   
