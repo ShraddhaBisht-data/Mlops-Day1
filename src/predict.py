@@ -9,3 +9,5 @@ new_data = pd.DataFrame([[123, 56, 89]])
 prediction = model.predict(new_data)
 
 print(f"Predicted Sales is {prediction}")
+
+
