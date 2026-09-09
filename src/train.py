@@ -12,9 +12,9 @@ from sklearn.metrics import root_mean_squared_error
 
 # Set dynamic project root path
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_PATH = os.path.join(BASE_DIR, "data", "data.csv")
+DATA_PATH = os.path.join(BASE_DIR, "Data", "data.csv")
 DB_PATH = os.path.join(BASE_DIR, "mlflow.db")
-MODELS_DIR = os.path.join(BASE_DIR, "models")
+MODELS_DIR = os.path.join(BASE_DIR, "Models")
 os.makedirs(MODELS_DIR, exist_ok=True)
 
 
