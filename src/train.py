@@ -25,7 +25,7 @@ registered_model_name = "Sales_prediction_Model"
 mlflow.set_experiment(experiment_name)
 
 # data preprocesssing 
-df = pd.read_csv("C:\\Mlops Day 1\\Data\\data.csv")
+df = pd.read_csv("data/data.csv")
 X,y = df[["TV","Radio","Newspaper"]],df["Sales"]
 xtrain, xtest, ytrain, ytest = train_test_split(X,y, test_size = 0.2, random_state = 42)
  
