@@ -6,7 +6,7 @@ import joblib
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "models", "champion_model.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "Models", "champion_model.pkl")
 
 @st.cache_resource
 def load_model():
